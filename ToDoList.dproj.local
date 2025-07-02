@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/16 20:34:38.000.905,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/25 09:42:49.000.331,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/26 11:18:39.000.813,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/17 18:20:14.000.407,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2025/06/20 00:36:36.000.647,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 05:31:03.000.940,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 05:32:16.000.921,C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\ToDoList.dproj</Transaction>
+    <Transaction>2025/06/20 07:10:07.000.168,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\ULogin.pas</Transaction>
+    <Transaction>2025/06/20 07:10:07.000.099,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UDashboard.pas</Transaction>
+    <Transaction>2025/06/20 07:10:07.000.271,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UTask.pas</Transaction>
+    <Transaction>2025/06/20 07:10:07.000.211,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\URegister.pas</Transaction>
+    <Transaction>2025/06/20 08:36:57.000.478,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 09:10:00.000.185,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.pas</Transaction>
+    <Transaction>2025/06/20 09:10:00.000.186,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.dfm</Transaction>
+    <Transaction>2025/06/20 09:29:02.000.861,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.pas</Transaction>
+    <Transaction>2025/06/20 09:29:02.000.861,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.dfm</Transaction>
+    <Transaction>2025/06/20 09:53:50.000.827,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.pas=</Transaction>
+    <Transaction>2025/06/20 15:01:50.000.182,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 15:02:43.000.622,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 15:02:43.000.622,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.dfm</Transaction>
+    <Transaction>2025/06/20 15:33:46.000.947,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportAccount.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.pas</Transaction>
+    <Transaction>2025/06/20 15:33:46.000.947,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportAccount.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReport.dfm</Transaction>
+    <Transaction>2025/06/20 15:39:18.000.444,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.pas</Transaction>
+    <Transaction>2025/06/20 16:36:06.000.437,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportAccount.pas=</Transaction>
+    <Transaction>2025/06/20 16:36:15.000.786,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportAccount.pas</Transaction>
+    <Transaction>2025/06/20 16:36:16.000.084,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.pas</Transaction>
+    <Transaction>2025/06/20 16:36:45.000.318,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportAccount.pas=</Transaction>
+    <Transaction>2025/06/20 16:44:43.000.777,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.pas=</Transaction>
+    <Transaction>2025/06/20 16:47:19.000.088,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportAccount.pas</Transaction>
+    <Transaction>2025/06/20 16:53:47.000.505,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 16:55:19.000.658,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.dfm</Transaction>
+    <Transaction>2025/06/20 16:55:19.000.658,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportActivity.pas</Transaction>
+    <Transaction>2025/06/20 16:58:29.000.953,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 16:59:40.000.126,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportTask.dfm</Transaction>
+    <Transaction>2025/06/20 16:59:40.000.126,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportTask.pas</Transaction>
+    <Transaction>2025/06/20 17:12:40.000.212,=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas</Transaction>
+    <Transaction>2025/06/20 17:13:43.000.633,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.dfm=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportLog.dfm</Transaction>
+    <Transaction>2025/06/20 17:13:43.000.633,C:\Users\MSI A12VE\Documents\GitHub\to-do-list\Unit1.pas=C:\Users\MSI A12VE\Documents\GitHub\to-do-list\UQuickReportLog.pas</Transaction>
+  </Transactions>
+</BorlandProject>
